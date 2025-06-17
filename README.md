@@ -267,15 +267,13 @@ This project is created for educational and demonstration purposes.
 - AI-powered product categorization
 - Modern web development implementation
 
----
+## 🎩 AI Description 
 
-To generate "AI Description":
-1-Create your own Gemini API key
-2-Go to backend/.env file
-3-Paste your API key right after "GEMINI_API_KEY="
-4-Save and use description feature  
-
----
+**To generate "AI Description":**
+- Create your own Gemini API key
+- Go to backend/.env file
+- Paste your API key right after "GEMINI_API_KEY="
+- Save and use description feature  
 
 ### 🎯 Quick Links
 - [🚀 Setup Guide for Collaborators](SETUP_GUIDE.md) - Step-by-step setup after cloning
