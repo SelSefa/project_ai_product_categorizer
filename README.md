@@ -179,6 +179,7 @@ AIProductCategorizer2/
 - **Category Prediction**: AI suggests the most appropriate categories
 - **Confidence Scores**: Shows how confident the AI is about each category
 - **Smart Filtering**: Enhanced search and filtering capabilities
+- **AI Description Generation**: Automatically generates detailed product descriptions based on uploaded images and basic product information, helping sellers create compelling product listings efficiently
 
 ## 📊 Supported Categories
 
@@ -265,6 +266,14 @@ This project is created for educational and demonstration purposes.
 - Full-stack e-commerce platform
 - AI-powered product categorization
 - Modern web development implementation
+
+---
+
+To generate "AI Description":
+1-Create your own Gemini API key
+2-Go to backend/.env file
+3-Paste your API key right after "GEMINI_API_KEY="
+4-Save and use description feature  
 
 ---
 
