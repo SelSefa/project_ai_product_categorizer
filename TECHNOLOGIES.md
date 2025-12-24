@@ -1,12 +1,12 @@
-# 🛠️ Technology Stack & Implementation
+#  Technology Stack & Implementation
 
-## 📋 Overview
+##  Overview
 
 This document outlines the comprehensive technology stack used in the **AI Product Categorizer** graduation project, explaining the rationale behind each choice and implementation details.
 
 ---
 
-## 🎨 Frontend Technologies
+##  Frontend Technologies
 
 ### **Core Framework**
 - **React.js (v18+)**
@@ -47,7 +47,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 🐍 Backend Technologies
+##  Backend Technologies
 
 ### **Web Framework**
 - **Flask (Python)**
@@ -76,7 +76,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
 ### **Core AI Framework**
 - **PyTorch**
@@ -110,7 +110,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 🔧 Development Tools
+##  Development Tools
 
 ### **Package Management**
 - **npm** (Frontend)
@@ -137,7 +137,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 📊 Data Flow Architecture
+##  Data Flow Architecture
 
 ```
 ┌─────────────┐    HTTP/HTTPS    ┌─────────────┐
@@ -162,7 +162,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 🚀 Deployment & Performance
+##  Deployment & Performance
 
 ### **Build System**
 - **Create React App**
@@ -184,7 +184,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 🔒 Security Implementation
+##  Security Implementation
 
 ### **Frontend Security**
 - JWT token storage and management
@@ -201,7 +201,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 ### **Breakpoint System**
 - **Mobile**: 320px - 767px
@@ -216,7 +216,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 
 ---
 
-## 🎯 Key Benefits
+##  Key Benefits
 
 ### **Development Benefits**
 - **Type Safety**: PropTypes for React components
