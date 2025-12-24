@@ -1,6 +1,6 @@
-# 🚀 Setup Guide for Collaborators
+#  Setup Guide for Collaborators
 
-## 📋 What You Need to Do After Cloning
+##  What You Need to Do After Cloning
 
 When you clone this project from GitHub, some files are not included (they're in `.gitignore`). You need to set them up locally:
 
@@ -58,7 +58,7 @@ npm start
 - **Customer**: `user@user.com` / `usersuser`
 - **Seller**: `admin@admin.com` / `adminadmin`
 
-## 📁 Files That Will Be Created Automatically
+##  Files That Will Be Created Automatically
 
 After setup, these files/folders will be created locally:
 - `backend/venv/` - Python virtual environment
@@ -66,14 +66,14 @@ After setup, these files/folders will be created locally:
 - `frontend/node_modules/` - NPM packages
 - `backend/uploads/` - Will contain uploaded product images
 
-## ⚠️ Important Notes
+##  Important Notes
 
 1. **Virtual Environment**: Always activate the virtual environment before running backend
 2. **Database**: The database will be created with sample products and test users
 3. **Dependencies**: Make sure you have Python 3.8+ and Node.js 14+ installed
 4. **Ports**: Backend runs on port 8000, frontend on port 4001
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 - **Python not found**: Make sure Python is in your PATH
 - **Permission errors**: Use virtual environment, avoid sudo
