@@ -1,12 +1,12 @@
-# 🎓 AI Product Categorizer - Graduation Project Guide
+#  AI Product Categorizer - Graduation Project Guide
 
-## 📋 Project Summary
+## Project Summary
 
 **AI Product Categorizer** is a comprehensive e-commerce platform that leverages artificial intelligence for automatic product categorization. This graduation project demonstrates the integration of modern web technologies with machine learning capabilities to create a practical, real-world application.
 
 ---
 
-## 🎯 Academic Objectives
+## Academic Objectives
 
 ### **Primary Learning Outcomes**
 - **Full-Stack Development**: Complete web application development cycle
@@ -25,22 +25,22 @@
 
 ---
 
-## 🌟 Project Features
+##  Project Features
 
-### **🤖 AI-Powered Features**
+### ** AI-Powered Features**
 - **Automatic Categorization**: CLIP model analyzes product images
 - **Confidence Scoring**: Shows AI prediction accuracy
 - **Multi-modal Understanding**: Combines visual and textual information
 - **Real-time Processing**: Instant category suggestions
 
-### **🛍️ E-commerce Functionality**
+### ** E-commerce Functionality**
 - **User Management**: Registration, login, role-based access
 - **Product Management**: Add, edit, view, delete products
 - **Shopping Cart**: Persistent cart with quantity management
 - **Order System**: Complete checkout and order history
 - **Marketplace**: Browse and filter products by category/price
 
-### **🎨 User Experience**
+### ** User Experience**
 - **Modern Design**: Purple-themed design system with glassmorphism
 - **Responsive Layout**: Mobile-first approach for all devices
 - **Accessibility**: WCAG-compliant components and navigation
@@ -48,7 +48,7 @@
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ### **Frontend Architecture**
 ```
@@ -87,7 +87,7 @@
 
 ---
 
-## 🚀 Installation & Setup Guide
+##  Installation & Setup Guide
 
 ### **Prerequisites**
 - Node.js (v14 or higher)
@@ -146,7 +146,7 @@
 
 ---
 
-## 📊 Feature Demonstration
+##  Feature Demonstration
 
 ### **1. User Registration & Authentication**
 - Role-based registration (Customer/Seller)
@@ -173,7 +173,7 @@
 
 ---
 
-## 🔧 Technical Implementation Details
+##  Technical Implementation Details
 
 ### **AI Model Integration**
 ```python
@@ -211,7 +211,7 @@ export const useAuth = () => {
 
 ---
 
-## 📈 Performance Optimizations
+##  Performance Optimizations
 
 ### **Frontend Optimizations**
 - Component lazy loading
@@ -227,7 +227,7 @@ export const useAuth = () => {
 
 ---
 
-## 🔒 Security Measures
+##  Security Measures
 
 ### **Authentication Security**
 - Password hashing with bcrypt
@@ -248,7 +248,7 @@ export const useAuth = () => {
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 ### **Color Palette**
 - **Primary**: Purple (#805AD5)
@@ -268,7 +268,7 @@ export const useAuth = () => {
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 ### **Mobile Optimization**
 - Touch-friendly interface
@@ -284,7 +284,7 @@ export const useAuth = () => {
 
 ---
 
-## 🧪 Testing & Quality Assurance
+##  Testing & Quality Assurance
 
 ### **Manual Testing**
 - User flow testing
@@ -300,7 +300,7 @@ export const useAuth = () => {
 
 ---
 
-## 📚 Learning Resources
+##  Learning Resources
 
 ### **Technologies Used**
 - **React.js**: Component-based UI development
@@ -319,7 +319,7 @@ export const useAuth = () => {
 
 ---
 
-## 🎯 Project Achievements
+##  Project Achievements
 
 ### **Technical Achievements**
 - ✅ Successful AI model integration
@@ -337,7 +337,7 @@ export const useAuth = () => {
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### **Technical Improvements**
 - Advanced AI models
@@ -355,7 +355,7 @@ export const useAuth = () => {
 
 ---
 
-## 📖 Documentation References
+##  Documentation References
 
 - **README.md**: Quick start and overview
 - **TECHNOLOGIES.md**: Detailed technology stack
