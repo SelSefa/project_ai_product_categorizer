@@ -8,7 +8,7 @@ This document provides comprehensive documentation for the **AI Product Categori
 
 ---
 
-##  Authentication
+##  Authentication 
 
 ### **JWT Token Authentication**
 Most endpoints require authentication. Include the JWT token in the request header:
