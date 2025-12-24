@@ -1,6 +1,6 @@
-# 🔗 API Documentation
+#  API Documentation
 
-## 📋 Overview
+##  Overview
 
 This document provides comprehensive documentation for the **AI Product Categorizer** REST API. The backend runs on Flask and provides endpoints for authentication, product management, AI categorization, and e-commerce functionality.
 
@@ -8,7 +8,7 @@ This document provides comprehensive documentation for the **AI Product Categori
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 ### **JWT Token Authentication**
 Most endpoints require authentication. Include the JWT token in the request header:
@@ -23,7 +23,7 @@ Authorization: Bearer <jwt_token>
 
 ---
 
-## 🚪 Authentication Endpoints
+##  Authentication Endpoints
 
 ### **Register User**
 ```http
@@ -106,7 +106,7 @@ GET /api/user
 
 ---
 
-## 🛍️ Product Endpoints
+##  Product Endpoints
 
 ### **Get All Products (Marketplace)**
 ```http
@@ -266,7 +266,7 @@ DELETE /api/products/{id}
 
 ---
 
-## 🤖 AI Categorization Endpoints
+## AI Categorization Endpoints
 
 ### **Categorize Image**
 ```http
@@ -307,7 +307,7 @@ POST /api/categorize
 
 ---
 
-## 🛒 Shopping Cart Endpoints
+##  Shopping Cart Endpoints
 
 ### **Get Cart Items**
 ```http
@@ -416,7 +416,7 @@ DELETE /api/cart/{item_id}
 
 ---
 
-## 📦 Order Endpoints
+##  Order Endpoints
 
 ### **Place Order**
 ```http
@@ -523,7 +523,7 @@ GET /api/orders/{id}
 
 ---
 
-## 👥 Seller Management Endpoints
+##  Seller Management Endpoints
 
 ### **Get All Users** (Seller Access)
 ```http
@@ -560,7 +560,7 @@ GET /api/users
 
 ---
 
-## 📊 Statistics Endpoints
+## Statistics Endpoints
 
 ### **Get Platform Statistics**
 ```http
@@ -610,7 +610,7 @@ GET /api/stats
 
 ---
 
-## 🔧 Rate Limiting
+##  Rate Limiting
 
 **Current Limits:**
 - Authentication endpoints: 5 requests per minute
@@ -619,7 +619,7 @@ GET /api/stats
 
 ---
 
-## 📝 Notes
+##  Notes
 
 ### **Image Upload Requirements**
 - **Supported formats**: JPG, JPEG, PNG, GIF
