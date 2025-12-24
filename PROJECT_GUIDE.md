@@ -3,7 +3,7 @@
 ## Project Summary
 
 **AI Product Categorizer** is a comprehensive e-commerce platform that leverages artificial intelligence for automatic product categorization. This graduation project demonstrates the integration of modern web technologies with machine learning capabilities to create a practical, real-world application.
-
+ 
 ---
 
 ## Academic Objectives
