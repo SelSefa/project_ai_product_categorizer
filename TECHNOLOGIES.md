@@ -9,7 +9,7 @@ This document outlines the comprehensive technology stack used in the **AI Produ
 ##  Frontend Technologies
 
 ### **Core Framework**
-- **React.js (v18+)**
+- **React.js (v18+)** 
   - Component-based architecture for maintainable UI
   - Virtual DOM for optimized performance
   - Hooks for state management and lifecycle
